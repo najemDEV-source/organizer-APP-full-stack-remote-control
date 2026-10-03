@@ -1,0 +1,46 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Build
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+.vs/
+
+# Flutter
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Secrets
+.env
+*.env
+secrets.json
+appsettings.Development.json
+
+# Personal
+organizerAppAPI.http
+.metadata
+
+# Unused platforms
+android/
+ios/
+linux/
+macos/
+web/
+test/
+
+# Logs
+*.log
